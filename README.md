@@ -7,7 +7,7 @@ The purpose of this repository is to derive a new constitution for the people of
 Traditional concerns of nations should be addressed, namely sovereignty of the state -- "the power of a state to do everything necessary to govern itself, such as making, executing, and applying laws; imposing and collecting taxes; making war and peace; and forming treaties or engaging in commerce with foreign nations."
 
 ## Format
-This document will be comprised of various files that address specific concerns, issues, powers, and limitations. During this initial phase, we're focusing on a decentralized blob of concerns and interests in the folder, "concerns-interests". We'll turn attention to organizing topics in a later phase.
+This document will be comprised of various files that address specific concerns, issues, powers, and limitations. During this initial phase, we're focusing on a decentralized blob of concerns and interests in the branch, "[concerns-interests](https://github.com/irthos/gov3/tree/concerns-interests)". We'll turn attention to organizing topics in a later phase.
 
 ## Participation
 To make additions or substantial changes to a file, please fork this repo and submit a pull-request. To bring attention to errors, discuss terms and terminologies, debate best practices, or share general ideas, please create an issue here: https://github.com/irthos/gov3/issues/new. Be sure to reference the file or issue, if applicable.
